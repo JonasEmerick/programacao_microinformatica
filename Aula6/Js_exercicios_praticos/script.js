@@ -37,7 +37,6 @@ botaoSaudacao.onclick = function(){
 
 //Exercicio 3:
 
-/* Exemplo Básico de JavaScript */
 let img = document.querySelector("img");
 
 const btn_prev = document.querySelector("#anterior");
